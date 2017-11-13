@@ -16,4 +16,4 @@
 # JAVA_OPTS configuration
 ---
 from_environment: true
-java_opts: -XX:MaxDirectMemorySize=2M -XX:MaxMetaspaceSize=15937K -Xss1M -Xmx128M -XX:ReservedCodeCacheSize=30M
+java_opts: -XX:MaxDirectMemorySize=2M -XX:MaxMetaspaceSize=15937K -Xss1M -Xmx80M -XX:ReservedCodeCacheSize=10M
