@@ -16,4 +16,4 @@
 # JAVA_OPTS configuration
 ---
 from_environment: true
-java_opts: -XX:MaxMetaspaceSize=30M -XX:MaxDirectMemorySize=10M -XX:ReservedCodeCacheSize=20M
+java_opts: -XX:MaxMetaspaceSize=30M -XX:MaxDirectMemorySize=10M -XX:ReservedCodeCacheSize=10M
